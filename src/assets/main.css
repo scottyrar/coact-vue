@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+@font-face {
+    font-family: sf;
+    src: url(./fonts/SFthon.ttf);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
